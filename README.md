@@ -1,1 +1,1 @@
-This is gonna be my own personal pihole blocklist. Probably going to be a mix of everything.
+This is going to be my pihole blocklist.
