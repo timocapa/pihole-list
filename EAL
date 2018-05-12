@@ -1,3 +1,7 @@
 rm -rf EtherAddressLookup
 curl -s -L https://github.com/409H/EtherAddressLookup/raw/master/blacklists/domains.json | jq -r '.[]' > EtherAddressLookup
 sed -i "/\b\(twitter.com*\)\b/d" EtherAddressLookup
+
+git add *
+git commit -m "Update"
+git push
