@@ -1,1 +1,1 @@
-Regulary updating EAL by @409H in a proper pihole compatible format.
+Regular updates for Cryptocurrency scam pages by @409H and a YouTube ads block list
